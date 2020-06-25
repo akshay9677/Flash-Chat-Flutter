@@ -1,32 +1,16 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Flash Chat ⚡️
 
-## Our Goal
+This a group chatting app which is built using Flutter.This app has four screens a Welcome screen, Login Screen, Register Screen 
+and the Chat Screen.For Backend Firebase is used. Some screenshots of the app is shown below. When the users are Logged-in or Signing-up 
+for the first time they are taken to a group chat screen where all the users can chat. This app also has a authentication setup where 
+new users cannot login(but they can sign up) or already logged-in user cannot register.I have used Firebase Cloud Firestore as well 
+as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods. 
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
-
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+<img src="/images/Sc1.png" width="30%">          <img src="/images/Sc2.png" width="30%">      <img src="/images/Sc3.png" width="30%">
+<img src="/images/Sc4.png" width="30%">          <img src="/images/Sc5.png" width="30%"> 
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
