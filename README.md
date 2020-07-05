@@ -3,6 +3,8 @@
 
 # Flash Chat ⚡️
 
+I also created the same app using React Native check my profile
+
 This a group chatting app which is built using Flutter.This app has four screens a Welcome screen, Login Screen, Register Screen 
 and the Chat Screen.For Backend Firebase is used. Some screenshots of the app is shown below. When the users are Logged-in or Signing-up 
 for the first time they are taken to a group chat screen where all the users can chat. This app also has a authentication setup where 
